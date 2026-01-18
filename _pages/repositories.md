@@ -1,47 +1,18 @@
 ---
 layout: page
-permalink: /repositories/
-title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+permalink: /GitHub/
+title: git
+description: Not a coder (but working on it)
+
 nav: true
-nav_order: 4
+nav_order: 3
 ---
+**Check out my [GitHub](https://github.com/graceponders)**
 
-{% if site.data.repositories.github_users %}
+## R projects
 
-## GitHub users
+- [Bugs!](https://github.com/graceponders/bug-community-analysis) - Community analysis of macroinvertebrate response to a controlled burn for my intership with Noosa Council (R/vegan)
+- [eDNA](https://github.com/graceponders/eDNA-methods-analysis) - PhD Reseach Chapter 1- Invertebrate community comparison using eDNA vs field surveys
+- [Yabby genotyping](https://github.com/graceponders/population-genetics-dartR) - PhD Research Chapter 2- Sand yabby population genetic structure (R/dartrverse)
+- [Acid yabbies](https://github.com/graceponders/crayfish-transcriptomics) - PhD Research Chapter 3- Analysis of differentially expressed genes between *C. robustus* and *C. quadricarinatus*
 
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for user in site.data.repositories.github_users %}
-    {% include repository/repo_user.liquid username=user %}
-  {% endfor %}
-</div>
-
----
-
-{% if site.repo_trophies.enabled %}
-{% for user in site.data.repositories.github_users %}
-{% if site.data.repositories.github_users.size > 1 %}
-
-  <h4>{{ user }}</h4>
-  {% endif %}
-  <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% include repository/repo_trophies.liquid username=user %}
-  </div>
-
----
-
-{% endfor %}
-{% endif %}
-{% endif %}
-
-{% if site.data.repositories.github_repos %}
-
-## GitHub Repositories
-
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for repo in site.data.repositories.github_repos %}
-    {% include repository/repo.liquid repository=repo %}
-  {% endfor %}
-</div>
-{% endif %}

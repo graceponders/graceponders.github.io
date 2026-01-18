@@ -17,9 +17,9 @@ layout: default
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
     <p class="post-meta">
-      Created on {{ page.date | date: '%B %d, %Y' }}
+      Created on {{ page.date | date: '%B, %Y' }}
       {% if page.author %}by {{ page.author }}{% endif %}
-      {% if page.last_updated %}, last updated on {{ page.last_updated | date: '%B %d, %Y' }}{% endif %}
+      {% if page.last_updated %}, last updated on {{ page.last_updated | date: '%B, %Y' }}{% endif %}
       {% if page.meta %}• {{ page.meta }}{% endif %}
     </p>
     <p class="post-tags">
@@ -79,12 +79,6 @@ layout: default
     <div class="publications">
       {% bibliography --group_by none --cited_in_order %}
     </div>
-  {% endif %}
-
-  {% if site.related_blog_posts and site.related_blog_posts.enabled %}
-    {% if page.related_posts == null or page.related_posts %}
-      {% include related_posts.liquid %}
-    {% endif %}
   {% endif %}
 
   {% if site.disqus_shortname and page.disqus_comments %}
