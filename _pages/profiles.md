@@ -7,8 +7,8 @@ nav: true
 nav_order: 1
 ---
 
+### Collaborations and exhibitions
 
-### Collaborations and exhibitions 
 **Wildflower Women**
 <br>
 Local artist component of the travelling regional exhibition [Wildflowering by Design](https://www.wildflowerwomen.net/wildflowering-by-design.html)
@@ -21,19 +21,18 @@ Networking stickers for the [Ecological Society of Australia's](https://www.ecol
 <br>
 Animated [Protect our Owls](https://www.instagram.com/reel/C2RrnqwxZ0r/?igsh=YXQ4eGx1cXn3aGO=) reel
 
-**Death by Birding** 
+**Death by Birding**
 <br>
-Animated [Communicating with Owls](https://www.instagram.com/reel/Cw98A81R5iX/?igsh=c3pndjRieW4zNzcz 
-) reel
+Animated [Communicating with Owls](https://www.instagram.com/reel/Cw98A81R5iX/?igsh=c3pndjRieW4zNzcz) reel
 
 **Oceania Chondrichthyan Society**
 <br>
 20th Anniversary conference logo design for [Oceania Sharks](https://www.oceaniasharks.com.au/)
 
-
-
 ---
+
 #### Selected portfolio
+
 Conferencing for the [Oceania Chondrichthyan Society](https://www.oceaniasharks.com.au/) and [Ecological Society of Australia](https://www.ecolsoc.org.au/)
 ![OCS 20th anniversary logo](/assets/img/portfolio/OCS.jpg)
 ![ESA networking](/assets/img/portfolio/hm.png)
@@ -43,11 +42,13 @@ Dress patterned and sewn for [Wildflowering by Design](https://www.wildflowerwom
 ![Wildflowering by Design](/assets/img/portfolio/wfw.jpeg)
 Mt Emu at golden hour, [Sarah Jane Smith](https://yourlifephotography.com.au/)
 
-*Wild heath* surface pattern design 
+_Wild heath_ surface pattern design
 ![Wild heath](/assets/img/portfolio/wh.jpg)
 
 ---
+
 #### Personal portfolio
+
 Animals
 <br>
 ![coucal](/assets/img/portfolio/p1.png)

@@ -8,6 +8,7 @@ nav_order: 4
 ---
 
 {% for post in site.posts %}
+
   <div style="display: flex; gap: 20px; margin-bottom: 30px; align-items: flex-start;">
     {% if post.thumbnail %}
       <div style="flex-shrink: 0;">

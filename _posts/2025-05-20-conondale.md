@@ -17,4 +17,3 @@ I don't know what possessed me to attempt this walk again, 7 years later. Maybe 
 Not to say I didn't enjoy this walk, but it certainly wasn't my favourite. That said, I can wholeheartedly recommend a southwest tofu pie and a bee sting donut from the Kenilworth Bakery on the way home, which almost made the whole thing worth it.
 
 Almost.
-

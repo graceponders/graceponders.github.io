@@ -4,12 +4,12 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Grace
-middle_name: 
+middle_name:
 last_name: Smith
 contact_note: >
 description: >
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-footer_text: >  
+footer_text: >
   Rome wasn't built in a day, but this website was. Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
@@ -90,7 +90,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 blog_name: gracewanders # Change this to your preference
-blog_description: Getting lost, etc.  
+blog_description: Getting lost, etc.
 permalink: /blog/:year/:title/
 lsi: false
 # Pagination
@@ -105,7 +105,7 @@ giscus:
   repo: # <graceponders>/<your-github-repo-name>
   repo_id: # leave empty or specify your repo_id (see https://giscus.app/)
   category: Comments
-  category_id: 
+  category_id:
   mapping: title
   strict: 1
   reactions_enabled: 1
@@ -189,7 +189,7 @@ plugins:
   - jekyll-feed
   - jekyll-get-json
   - jekyll-imagemagick
- # - jekyll-jupyter-notebook
+  # - jekyll-jupyter-notebook
   - jekyll-link-attributes
   - jekyll-minifier
   - jekyll-paginate-v2

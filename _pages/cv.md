@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 5
 cv_pdf: cv_2026.pdf
- 
+
 description: >
   <strong>Hi there!</strong>
   <br>

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>graceponders.</a> Science, art and communication. 
+subtitle: <a href='#'>graceponders.</a> Science, art and communication.
 
 profile:
   align: right
@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Mooloola River National Park, 2024. <a href="https://www.jasminelouise.com/" target="_blank">JC.</a></p>
-    
+
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
@@ -25,8 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
->**Scatterbrain**
->(n.) a person who tends to be disorganized and lacking in concentration. *"She struck me as a bit of a scatterbrain."*
+> **Scatterbrain**
+> (n.) a person who tends to be disorganized and lacking in concentration. _"She struck me as a bit of a scatterbrain."_
 
 Lab rat, bog enthusiast, general source of distraction.
 
