@@ -25,9 +25,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-> **Scatterbrain**
-> (n.) a person who tends to be disorganized and lacking in concentration. _"She struck me as a bit of a scatterbrain."_
-
 Lab rat, bog enthusiast, general source of distraction.
 
 Most of my time is spent figuring out what genetic data can tell us about ecosystems. I'm into solving questions about invertebrate community ecology and physiology with molecular data.
